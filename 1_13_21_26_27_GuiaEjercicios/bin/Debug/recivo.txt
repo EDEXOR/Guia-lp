@@ -1,0 +1,26 @@
+﻿Cantidad de ordenes: 0
+
+Dinero Total : $0
+
+Productos vendidos: 
+    Hambuguesas: 0
+    Hotdog: 0
+    Papas Grandes: 0
+    Papas Pequeñas: 0
+    Soda pequeña: 0
+    Soda mediana: 0
+    Soda grande: 0
+
+Cantidad de ordenes: 0
+
+Dinero Total : $0
+
+Productos vendidos: 
+    Hambuguesas: 0
+    Hotdog: 0
+    Papas Grandes: 0
+    Papas Pequeñas: 0
+    Soda pequeña: 0
+    Soda mediana: 0
+    Soda grande: 0
+

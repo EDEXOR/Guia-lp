@@ -1,0 +1,71 @@
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe.config
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbprojResolveAssemblyReference.cache
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form1.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form2.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form3.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form4.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form5.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Form6.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Resources.resources
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbproj.GenerateResource.Cache
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\Users\Bryan Somoza\Desktop\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe.config
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbprojResolveAssemblyReference.cache
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Index.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F1.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F2.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F3.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F4.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F5.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Resources.resources
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbproj.GenerateResource.Cache
+C:\.Prop Files\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.g.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe.config
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.exe
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.xml
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.xml
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbprojResolveAssemblyReference.cache
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.g.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Index.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F1.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F2.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F3.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F4.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F5.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Resources.resources
+\\10.10.5.150\lb\LP\1_13_21_26_27_GuiaEjercicios\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbproj.GenerateResource.Cache
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe.config
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.pdb
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbprojResolveAssemblyReference.cache
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.g.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Index.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F1.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F2.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F3.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F4.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.F5.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\_1_13_21_26_27_GuiaEjercicios.Resources.resources
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.vbproj.GenerateResource.Cache
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\Guia-lp\1_13_21_26_27_GuiaEjercicios\bin\Debug\1_13_21_26_27_GuiaEjercicios.exe.config
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\Guia-lp\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.exe
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\Guia-lp\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.xml
+C:\Users\EDWARD\Desktop\TAREAS\LP\lpt-master\Guia-lp\1_13_21_26_27_GuiaEjercicios\obj\Debug\1_13_21_26_27_GuiaEjercicios.pdb

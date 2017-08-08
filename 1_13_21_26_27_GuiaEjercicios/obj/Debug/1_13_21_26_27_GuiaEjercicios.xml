@@ -1,0 +1,151 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+1_13_21_26_27_GuiaEjercicios
+</name>
+</assembly>
+<members>
+<member name="T:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources._001_fries">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources._002_hot_dog">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources._003_burger">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources._004_coke">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.cinco">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.cinco1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.cuatro">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.cuatro1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.dos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.dos1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_3">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_4">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_5">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.F5_6">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.play_button">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.seis">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.seis1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.siete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.siete1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.tres">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.tres1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.uno">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:_1_13_21_26_27_GuiaEjercicios.My.Resources.Resources.uno1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

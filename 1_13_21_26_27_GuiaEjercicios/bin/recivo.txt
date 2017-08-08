@@ -1,0 +1,13 @@
+﻿Cantidad de ordenes: 1
+
+Dinero Total : $40
+
+Productos vendidos: 
+    Hambuguesas: 8
+    Hotdog: 8
+    Papas Grandes: 0
+    Papas Pequeñas: 0
+    Soda pequeña: 0
+    Soda mediana: 0
+    Soda grande: 0
+
